@@ -9,11 +9,11 @@ Main Files
 Step 1: perform PFI and export the results (Tut9_MainPartI_PFI.jl)
 * input:     N/A	
 * functions: Tut9_FunctionsI_Jacobianandco.jl           
-** Tut9_FunctionsII_Newtoniter.jl                
-                -           Tut9_FunctionsIII_chebyshevAppx.jl          
-                -            Tut9_FunctionsIV_chebyshevandco.jl        
-                - output:    PFIResults_zeta0?_time???.txt              
-                  -          PolicyFunctions_zeta0?_time???.png         
+Tut9_FunctionsII_Newtoniter.jl                
+Tut9_FunctionsIII_chebyshevAppx.jl          
+Tut9_FunctionsIV_chebyshevandco.jl        
+* output:    PFIResults_zeta0?_time???.txt              
+ PolicyFunctions_zeta0?_time???.png         
                           
 * - Step 2: perform simulation on one, and then 100_000 time series                 *
 *    Tut9_MainPartII_SimulateLMM.jl:				                *
