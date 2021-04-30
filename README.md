@@ -24,9 +24,9 @@ Step 2: perform simulation on one, and then 100_000 time series (Tut9_MainPartII
               MeanAllVar_dis_zeta0?ts50.png          
               
 ****************************************************
-*                          Some Metadata                           *
-*  - working directory: where the script is located *
-*  - figure path: working directory/figures              *
-*  - Random.seed: 5086_2495262_20210331         * 
-****************************************************
+*                          Some Metadata                         
+*  working directory: where the script is located 
+*  figure path: working directory/figures     
+*  Random.seed: 5086_2495262_20210331         
+***************************************************
 
