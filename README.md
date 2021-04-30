@@ -15,16 +15,14 @@ Tut9_FunctionsIV_chebyshevandco.jl
 * output:    PFIResults_zeta0?_time???.txt              
  PolicyFunctions_zeta0?_time???.png         
                           
-* - Step 2: perform simulation on one, and then 100_000 time series                 *
-*    Tut9_MainPartII_SimulateLMM.jl:				                *
-*                                         input:       PFIResults_zeta0?_time???.txt                     *
-*                                         functions: Tut9_FunctionsIII_chebyshevAppx.jl           *    
-*                                                          Tut9_FunctionsIV_chebyshevandco.jl         *  
-*                                         output:     KeyVar_timespan_zeta0?.png                     *
-*			           MeanKeyVars_Welfare_dis_zeta0?ts50.png *
-*                                                          MeanAllVar_dis_zeta0?ts50.png                  *
-***********************************************************************************
-
+Step 2: perform simulation on one, and then 100_000 time series (Tut9_MainPartII_SimulateLMM.jl)
+* input:       PFIResults_zeta0?_time???.txt
+* functions: Tut9_FunctionsIII_chebyshevAppx.jl           
+ Tut9_FunctionsIV_chebyshevandco.jl         
+* output:     KeyVar_timespan_zeta0?.png     
+ 		           MeanKeyVars_Welfare_dis_zeta0?ts50.png 
+              MeanAllVar_dis_zeta0?ts50.png          
+              
 ****************************************************
 *                          Some Metadata                           *
 *  - working directory: where the script is located *
