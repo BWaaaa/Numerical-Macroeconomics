@@ -4,12 +4,8 @@ For the interactive computational environment:\
 Tutorial1: please go to https://nextjournal.com/a/NRzh34EHQkJXnh6AVGySH?token=J6Rea4z51HyD2n95gJkjZa
 
 The "Labour Matching FPI" is a dedicated exercise towards a standard labour matching model.
-**************************************************************************
-* This is the codes repo for ECON5086 Topics in Computaiontal Macro *
-*                         feel free to read, copy and run                                       *
-**************************************************************************
 
-**********************************************************************************
+
 * Main Files           						               *
 * - Step 1: perform PFI and export the results                                                      *
 *    Tut9_MainPartI_PFI.jl：  					               *
